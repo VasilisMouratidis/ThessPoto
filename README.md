@@ -117,4 +117,4 @@ Compiled files, local IDE settings, and private database credentials should rema
 
 ## Author
 
-Developed by Bill Mour.
+Developed by Vasilis Mouratidis.
