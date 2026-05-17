@@ -50,7 +50,7 @@ katopin.java          # Additional navigation or form screen
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ThessPoto.git
+git clone https://github.com/VasilisMouratidis/ThessPoto.git
 ```
 
 2. Open the project in **NetBeans IDE**.
